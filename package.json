@@ -1,0 +1,25 @@
+{
+  "name": "seed-ecb",
+  "version": "0.1.0",
+  "description": "KISA SEED-ECB Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./seed-ecb-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryusatgat/seed-ecb.git"
+  },
+  "keywords": [
+    "seed",
+    "crypto",
+    "ecb",
+    "kisa"
+  ],
+  "author": "ryusatgat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryusatgat/seed-ecb/issues"
+  },
+  "homepage": "https://github.com/ryusatgat/seed-ecb#readme"
+}
