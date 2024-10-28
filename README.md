@@ -2,7 +2,7 @@
 KISA-SEED node.js implementation
 
 ## How to install
-```js
+```sh
 npm i seed-ecb
 ```
 
